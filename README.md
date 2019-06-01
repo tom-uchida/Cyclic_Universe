@@ -1,9 +1,9 @@
 # Cyclic_Universe
 
 ## Images
-![img](IMAGE_DATA/img1.png)
+![img](IMAGE_DATA/img1.PNG)
 
-![img](IMAGE_DATA/img2.png)
+![img](IMAGE_DATA/img2.PNG)
 
 ![img](IMAGE_DATA/img3.png)
 
